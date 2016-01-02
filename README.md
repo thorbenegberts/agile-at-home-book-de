@@ -1,1 +1,1 @@
-# scrum-at-home-book-de
+# agile-at-home-book-de
